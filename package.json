@@ -1,0 +1,24 @@
+{
+  "name": "ssl_certif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeGitHubDeTai/SSL_certif.git"
+  },
+  "keywords": [
+    "ssl",
+    "certif",
+    "auto"
+  ],
+  "author": "Tai Tetsuyuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeGitHubDeTai/SSL_certif/issues"
+  },
+  "homepage": "https://github.com/LeGitHubDeTai/SSL_certif#readme"
+}
